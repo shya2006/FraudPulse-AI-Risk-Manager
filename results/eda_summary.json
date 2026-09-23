@@ -1,0 +1,7 @@
+{
+  "rows": 590540,
+  "fraud": 20663,
+  "fraud_rate": 0.03499000914417313,
+  "hourly_windows": 4368,
+  "highest_fraud_rate_window_min100_txn": 0.1724137931034483
+}

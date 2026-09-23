@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Dataset
+data/*.csv
+data/*.zip
+
+# Generated Python files
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.log

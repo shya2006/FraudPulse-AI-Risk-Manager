@@ -1,0 +1,8 @@
+{
+    "total_transactions": 590540,
+    "overall_fraud_rate": 0.03499000914417313,
+    "hourly_windows": 4368,
+    "historical_window_hours": 24,
+    "minimum_transactions": 100,
+    "alert_windows": 29
+}

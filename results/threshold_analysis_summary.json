@@ -1,0 +1,23 @@
+{
+    "cost_assumptions": {
+        "false_positive_cost": 1,
+        "false_negative_cost": 10,
+        "note": "Demo assumptions for buildathon analysis; not Razorpay production costs."
+    },
+    "best_validation_threshold": 0.75,
+    "best_validation_cost": 25264,
+    "best_validation_f1_threshold": 0.8,
+    "best_validation_f1": 0.2394,
+    "held_out_test": {
+        "precision": 0.14694746805489825,
+        "recall": 0.40285436263379826,
+        "f1": 0.2153446033810143,
+        "pr_auc": 0.11802776002483009,
+        "roc_auc": 0.7332009602446196,
+        "true_positives": 1242,
+        "false_positives": 7210,
+        "false_negatives": 1841,
+        "true_negatives": 78288,
+        "estimated_business_cost": 25620
+    }
+}

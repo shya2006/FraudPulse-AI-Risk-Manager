@@ -1,0 +1,10 @@
+{
+    "test_transactions": 88581,
+    "overall_test_fraud_rate": 0.03480430340592226,
+    "alert_windows": 4,
+    "alert_fraud_rate": 0.12292358803986711,
+    "alert_fraud_lift": 3.531850260187956,
+    "calibration": "Isotonic regression fitted on validation data",
+    "risk_formula": "60% transaction risk + 40% temporal spike risk",
+    "label_usage": "isFraud used only for training/calibration and retrospective evaluation"
+}
