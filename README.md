@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ FraudPulse — AI Risk Manager
 
 ### Razorpay Buildathon | AI Risk Manager Track
@@ -494,3 +495,7 @@ but to answer:
 ## Built for the Razorpay AI Risk Manager Track
 
 **FraudPulse — Turning fraud signals into actionable risk decisions.**
+=======
+# FraudPulse-AI-Risk-Manager
+FraudPulse is a defense-only AI risk management system designed to help merchants identify unusual fraud activity, prioritize risky transaction periods, and recommend appropriate risk actions.  The system combines transaction-level machine learning with temporal fraud-spike detection and cost-aware threshold selection.
+>>>>>>> 34a5c12f18118e2a2fcfde5c71b4b79f1095563c
